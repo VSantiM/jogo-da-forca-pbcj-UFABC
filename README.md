@@ -2,4 +2,4 @@
 Repo para o primeiro projeto de Programação Baseada em Componentes para Jogos da UFACB
 
 
-Para utiliza-lo, abre com o Unity e Build o arquivo.
+Para utiliza-lo, abre com o Unity e Builde o arquivo.
